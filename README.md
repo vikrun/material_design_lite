@@ -1,1 +1,1 @@
-"# material_design_lite" 
+# material_design_lite
